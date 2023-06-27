@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "f2RFcOpcX4qLI/SxD1VyydO5sH2c6ncBpdy6tIHVbqaG+olzutV4XJAeCOOB2y3kH05YqRqbxeuw1Pd2Crcg+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Matheus\\Desktop\\Cursos\\Csharp_TestesAutomatizados_DesenvolvedorIo\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matheus\\.nuget\\packages\\fluentvalidation\\8.4.0\\fluentvalidation.8.4.0.nupkg.sha512",
+    "C:\\Users\\Matheus\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
+    "C:\\Users\\Matheus\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

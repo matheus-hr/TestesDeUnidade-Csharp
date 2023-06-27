@@ -1,0 +1,48 @@
+C:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01 - Testes de Unidade\Demo\bin\Debug\net7.0\Demo.deps.json
+C:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01 - Testes de Unidade\Demo\bin\Debug\net7.0\Demo.dll
+C:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01 - Testes de Unidade\Demo\bin\Debug\net7.0\Demo.pdb
+C:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\net7.0\Demo.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\net7.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\net7.0\Demo.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\net7.0\Demo.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\net7.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\net7.0\Demo.dll
+C:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\net7.0\refint\Demo.dll
+C:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\net7.0\Demo.pdb
+C:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\net7.0\ref\Demo.dll
+C:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01-Testes de Unidade\Demo\bin\Debug\net7.0\Demo.deps.json
+C:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01-Testes de Unidade\Demo\bin\Debug\net7.0\Demo.dll
+C:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01-Testes de Unidade\Demo\bin\Debug\net7.0\Demo.pdb
+C:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01-Testes de Unidade\Demo\obj\Debug\net7.0\Demo.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01-Testes de Unidade\Demo\obj\Debug\net7.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01-Testes de Unidade\Demo\obj\Debug\net7.0\Demo.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01-Testes de Unidade\Demo\obj\Debug\net7.0\Demo.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01-Testes de Unidade\Demo\obj\Debug\net7.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01-Testes de Unidade\Demo\obj\Debug\net7.0\Demo.dll
+C:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01-Testes de Unidade\Demo\obj\Debug\net7.0\refint\Demo.dll
+C:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01-Testes de Unidade\Demo\obj\Debug\net7.0\Demo.pdb
+C:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01-Testes de Unidade\Demo\obj\Debug\net7.0\ref\Demo.dll
+C:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01_Testes de Unidade\Demo\bin\Debug\net7.0\Demo.deps.json
+C:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01_Testes de Unidade\Demo\bin\Debug\net7.0\Demo.dll
+C:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01_Testes de Unidade\Demo\bin\Debug\net7.0\Demo.pdb
+C:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01_Testes de Unidade\Demo\obj\Debug\net7.0\Demo.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01_Testes de Unidade\Demo\obj\Debug\net7.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01_Testes de Unidade\Demo\obj\Debug\net7.0\Demo.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01_Testes de Unidade\Demo\obj\Debug\net7.0\Demo.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01_Testes de Unidade\Demo\obj\Debug\net7.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01_Testes de Unidade\Demo\obj\Debug\net7.0\Demo.dll
+C:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01_Testes de Unidade\Demo\obj\Debug\net7.0\refint\Demo.dll
+C:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01_Testes de Unidade\Demo\obj\Debug\net7.0\Demo.pdb
+C:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01_Testes de Unidade\Demo\obj\Debug\net7.0\ref\Demo.dll
+c:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01_Testes_de_Unidade\Demo\bin\Debug\net7.0\Demo.deps.json
+c:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01_Testes_de_Unidade\Demo\bin\Debug\net7.0\Demo.dll
+c:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01_Testes_de_Unidade\Demo\bin\Debug\net7.0\Demo.pdb
+c:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01_Testes_de_Unidade\Demo\obj\Debug\net7.0\Demo.csproj.AssemblyReference.cache
+c:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01_Testes_de_Unidade\Demo\obj\Debug\net7.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01_Testes_de_Unidade\Demo\obj\Debug\net7.0\Demo.AssemblyInfoInputs.cache
+c:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01_Testes_de_Unidade\Demo\obj\Debug\net7.0\Demo.AssemblyInfo.cs
+c:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01_Testes_de_Unidade\Demo\obj\Debug\net7.0\Demo.csproj.CoreCompileInputs.cache
+c:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01_Testes_de_Unidade\Demo\obj\Debug\net7.0\Demo.dll
+c:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01_Testes_de_Unidade\Demo\obj\Debug\net7.0\refint\Demo.dll
+c:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01_Testes_de_Unidade\Demo\obj\Debug\net7.0\Demo.pdb
+c:\Users\Matheus\Desktop\Cursos\Csharp_TestesAutomatizados_DesenvolvedorIo\TestesDeSoftware\01_Testes_de_Unidade\Demo\obj\Debug\net7.0\ref\Demo.dll

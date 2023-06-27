@@ -1,0 +1,34 @@
+# Arquivos e diretórios do Visual Studio
+.vs/
+.vscode/
+*.vscode/
+**/.vscode/
+bin/
+obj/
+
+# Pacotes NuGet
+*.nuget.props
+*.nuget.targets
+**/packages/
+
+# Arquivos de compilação
+*.dll
+*.exe
+*.pdb
+*.dll.config
+*.exe.config
+*.deps.json
+*.runtimeconfig.json
+*.runtimeconfig.dev.json
+
+# Arquivos de teste xUnit
+*.Tests/
+*.TestResults/
+*/TestResults/
+**/TestResults/
+
+# Arquivos de cobertura do Coverlet
+
+coverage.opencover.xml
+coverage.json
+coverage/
