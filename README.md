@@ -54,3 +54,13 @@ O objetivo deste projeto é demonstrar o uso de várias tecnologias relacionadas
 2. Abra o projeto no Visual Studio ou em qualquer outra IDE compatível com C#.
 3. Compile o projeto para garantir que todas as dependências sejam restauradas.
 4. Execute os testes de unidade para validar o código.
+5. Para usar o **Coverlet** execute o comando:
+   
+```C#
+ dotnet test --collect:"XPlat Code Coverage"
+```
+6. Para gerar um relatório em HTML do **Coverlet**, utilize o comando a seguir no mesmo nível da pasta **TestResults**, que já deverá ter sido criada dentro dos projetos testados usando o comando anterior.
+
+```C#
+ reportgenerator "-reports:coverage.cobertura.xml" "-targetdir:coverage-report" "-reporttypes:Html" 
+```
