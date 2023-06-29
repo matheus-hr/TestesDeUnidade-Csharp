@@ -1,5 +1,10 @@
 # Teste de Unidade utilizando xUnit
 
+![project_language](https://img.shields.io/badge/language-C%23-green)
+![server_backend](https://img.shields.io/badge/backend%2Fserver-.NET%207-blue)
+![test](https://img.shields.io/badge/project-Unit%20Tests-blueviolet)
+
+
 Este é um projeto de teste de unidade em C# que utiliza a estrutura de teste xUnit.
 
 O objetivo deste projeto é demonstrar o uso de várias tecnologias relacionadas a testes de unidade no ecossistema C#. 
