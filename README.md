@@ -9,7 +9,7 @@ Este é um projeto de teste de unidade em C# que utiliza a estrutura de teste xU
 
 O objetivo deste projeto é demonstrar o uso de várias tecnologias relacionadas a testes de unidade no ecossistema C#. 
 
-## Tecnologias Utilizadas
+## 🚀 Tecnologias Utilizadas
 
 * **xUnit:** Framework de teste de unidade para .NET.
   
@@ -23,7 +23,7 @@ O objetivo deste projeto é demonstrar o uso de várias tecnologias relacionadas
   
 * **Coverlet:** Ferramenta para medir a cobertura de código em projetos .NET.
 
-## Conceitos Utilizados
+## 💻 Conceitos Utilizados
 
 *  **Arrange, Act, Assert:** Uma abordagem para estruturar testes de unidade de forma clara e organizada
     *  **Arrange:** Nesta etapa, você deve preparar o ambiente para o teste, como instanciar e preparar objetos.
@@ -48,7 +48,7 @@ O objetivo deste projeto é demonstrar o uso de várias tecnologias relacionadas
   
 *  **Cobertura de codigo:** É uma métrica utilizada para avaliar a porcentagem de código fonte de um programa que é executada durante a execução dos testes.  
 
-## Instruções de Uso
+## ⚙️ Como utilizar este projeto?
 
 1. Clone o repositório.
 2. Abra o projeto no Visual Studio ou em qualquer outra IDE compatível com C#.
