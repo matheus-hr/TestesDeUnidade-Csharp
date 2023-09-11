@@ -9,13 +9,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.1 - Testes Basicos", "1.1
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.2 - Features", "1.2 - Features", "{9ACE6251-BEB3-443A-9305-19A9D7CCA2C1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo", "01_Testes_de_Unidade\Demo\Demo.csproj", "{3621927B-1A31-4F5C-8BCE-50B68DF1672E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo", "01 - Testes de Unidade\Demo\Demo.csproj", "{3621927B-1A31-4F5C-8BCE-50B68DF1672E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo.Tests", "01_Testes_de_Unidade\Demo.Tests\Demo.Tests.csproj", "{489F42BB-24CB-46EE-898B-E6AE4ED18BD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo.Tests", "01 - Testes de Unidade\Demo.Tests\Demo.Tests.csproj", "{489F42BB-24CB-46EE-898B-E6AE4ED18BD8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Features", "01_Testes_de_Unidade\Features\Features.csproj", "{99D160E5-9112-47E1-A11B-80C653DF3803}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Features", "01 - Testes de Unidade\Features\Features.csproj", "{99D160E5-9112-47E1-A11B-80C653DF3803}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Features.Tests", "01_Testes_de_Unidade\Features.Tests\Features.Tests.csproj", "{419397B8-4BA8-43F2-9E5D-98FB36C7BDEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Features.Tests", "01 - Testes de Unidade\Features.Tests\Features.Tests.csproj", "{419397B8-4BA8-43F2-9E5D-98FB36C7BDEF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
